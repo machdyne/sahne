@@ -16,6 +16,5 @@ $ make
 
 ```
 $ openFPGALoader -c dirtyJtag build/machdyne_lakritz/gateware/machdyne_lakritz.bit
-$ litex_term /dev/ttyACM1 --speed 115200 --kernel boot/boot.bin 
-litex> serialboot
+$ litex_term /dev/ttyACM1 --speed 115200 --kernel boot/boot.bin --serialboot
 ```
