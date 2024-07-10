@@ -1,6 +1,6 @@
 # Sahne SOC
 
-This is an experimental LiteX-based System-on-a-Chip (SOC) for Machdyne / Lone Dynamics FPGA boards.
+This is an experimental [LiteX](https://github.com/enjoy-digital/litex)-based System-on-a-Chip (SOC) for Machdyne / Lone Dynamics FPGA boards.
 
 It currently only includes a simple test for the framebuffer.
 
