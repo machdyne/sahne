@@ -4,7 +4,7 @@ This is an experimental [LiteX](https://github.com/enjoy-digital/litex)-based Sy
 
 It currently only includes a simple test for the framebuffer.
 
-Only [Lakritz](https://github.com/machdyne/lakritz) is currently supported but adding other boards supported by [litex-boards](https://github.com/litex-hub/litex-boards) should be just a matter of copying them to the targets directory and Makefile.
+Only [Lakritz](https://github.com/machdyne/lakritz) is currently supported but adding other boards supported by [litex-boards](https://github.com/litex-hub/litex-boards) should be just a matter of copying them to the targets directory and updating the Makefile.
 
 ## Building
 
